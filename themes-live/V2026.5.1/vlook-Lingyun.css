@@ -1051,8 +1051,8 @@ content>#write h5>span[md-inline=plain],
     --c-br-s: var(--v-r-s)var(--v-r-s-xc);
     --b-br-b: var(--v-r-b)var(--v-r-b-xc);
     --b-br-s: var(--v-r-s)var(--v-r-s-xc);
-    --v-theme-name: "vlook-thinking";
-    --v-theme-desc: "Thinking";
+    --v-theme-name: "vlook-Lingyun";
+    --v-theme-desc: "Lingyun";
     --v-theme-version: "V2026.5.1";
     --v-theme-email: "maxchow@qq.com";
     --v-color-scheme: light;
@@ -13998,13 +13998,13 @@ content>#write p:has([md-inline=em]:only-child>em>[md-inline=highlight]:only-chi
 }
 
 /* ============================================================
-   自定义修改（vlook-thinking）v2
+   自定义修改（vlook-Lingyun）v2
    1. 所有标题：移除自动编号（h1~h6）
    2. h1：背景右侧白→左侧蓝；去掉右侧 5px 色条
    3. h2~h6：套用 orangeheart 二级标题「标签」样式
       · 每级一种浅色（浅橙/浅绿/浅蓝/浅紫/浅粉），黑字
       · 分割线为同色渐变，最右侧渐变为白
-   删除本段即可恢复；备份见 vlook-thinking.css.bak
+   删除本段即可恢复；备份见 vlook-Lingyun.css.bak
    ============================================================ */
 
 /* ---- 一级标题 h1 ---- */
@@ -14194,10 +14194,10 @@ content>#write p:has([md-inline=em]:only-child>em>[md-inline=highlight]:only-chi
 }
 
 /* ============================================================
-   自定义修改（vlook-thinking）v2 续
+   自定义修改（vlook-Lingyun）v2 续
    4. 引用块：加浅浅背景色
    5. 代码块：深色背景 + 语法彩色（One Dark）+ mac 三圆点
-   删除本段即可恢复；备份见 vlook-thinking.css.bak
+   删除本段即可恢复；备份见 vlook-Lingyun.css.bak
    ============================================================ */
 
 /* ---- 引用块：浅浅背景色（自适应明暗模式） ---- */
